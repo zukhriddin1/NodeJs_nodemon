@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Nodejs lesson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Zuhriddin",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
